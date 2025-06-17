@@ -4,36 +4,26 @@
       "commerce-core-endpoint": "https://na1.api.commerce.adobe.com/BsyXj7DxDgdSUUhnQAk62L/graphql",
       "commerce-endpoint": "https://na1.api.commerce.adobe.com/BsyXj7DxDgdSUUhnQAk62L/graphql",
       "headers": {
-        "all": {
-          "Store": "default"
-        },
         "cs": {
           "Magento-Customer-Group": "b6589fc6ab0dc82cf12099d1c2d40ab994e8410c",
           "Magento-Store-Code": "main_website_store",
           "Magento-Store-View-Code": "default",
           "Magento-Website-Code": "base",
-          "Magento-Environment-Id": "BsyXj7DxDgdSUUhnQAk62L"
+          "Magento-Environment-Id": "BsyXj7DxDgdSUUhnQAk62L",
+          "content-type": "application/json"
         }
       },
       "analytics": {
         "base-currency-code": "USD",
         "environment": "Production",
-        "environment-id": "BsyXj7DxDgdSUUhnQAk62L",
-        "store-code": "main_website_store",
-        "store-id": "main_website_store",
+        "store-id": 1,
         "store-name": "Default Store View",
-        "store-url": "https://na1-ccsaas-service-int.commerce-core-saas.com/BsyXj7DxDgdSUUhnQAk62L/",
+        "store-url": "https://main--corsairs-accs-prod--aem-aco-labs.aem.live/",
         "store-view-code": "default",
-        "store-view-id": "default",
+        "store-view-id": 1,
         "store-view-name": "Default Store View",
-        "website-code": "base",
-        "website-id": "base",
+        "website-id": 1,
         "website-name": "Main Website"
-      },
-      "plugins": {
-        "picker": {
-          "rootCategory": "2"
-        }
       }
     }
   }
